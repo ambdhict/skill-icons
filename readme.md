@@ -119,7 +119,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `clojure`      |    <img src="./icons/Clojure-Dark.svg" width="48">    |
 |    `cloudflare`    |  <img src="./icons/Cloudflare-Dark.svg" width="48">   |
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
-|   `codeigniter`    |    <img src="./icons/Codeigniter.svg" width="48">     |
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
@@ -195,7 +194,6 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
-|     `mssql`        |      <img src="./icons/MSSql.svg" width="48">         |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
 |      `nestjs`      |    <img src="./icons/NestJS-Dark.svg" width="48">     |
